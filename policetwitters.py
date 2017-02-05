@@ -14,5 +14,21 @@ Norway = [
     '382593384',  # @Utrykningspol
     '270364084',  # @politietostfold
     '1073164934', # @opsenfollo
-    '55516088'    # @politietoslo
+    '55516088',   # @politietoslo
+    '398602139',  # politihedmark
+    '115642727',  # HaugSunnOps
+    '931740456',  # PolitiVestoppla
+    '899364038'   # OPSGudbrandsdal
+    '20197709',   # polititelemark
+    '1229316421', # HedmarkOPS
+    '701691314',  # opsnbuskerud
+    '437997027',  # politiOpsSTPD
+    '388867188',  # politiNTrondops
+    '1374416472', # polititroms
+    '1047599642', # OPSostfinnmark
+    '238125536',  # Politiforum
+    '901677504',  # PF_offisiell
+    '412278318',  # PolitiNoRoOps
+    '2191478849', # HRSSorNorge
+    '900392084'  # Hordalandpoliti
     ]
