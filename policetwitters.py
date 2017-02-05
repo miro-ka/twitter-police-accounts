@@ -18,7 +18,7 @@ Norway = [
     '398602139',  # politihedmark
     '115642727',  # HaugSunnOps
     '931740456',  # PolitiVestoppla
-    '899364038'   # OPSGudbrandsdal
+    '899364038',  # OPSGudbrandsdal
     '20197709',   # polititelemark
     '1229316421', # HedmarkOPS
     '701691314',  # opsnbuskerud
